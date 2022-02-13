@@ -29,7 +29,7 @@
 }
 
 .header__title {
-  width: 730px;
+  max-width: 730px;
   padding: 0;
   margin: 0 0 0 64px;
   line-height: 96px;
@@ -40,7 +40,7 @@
 }
 
 .header__subtitle {
-  width: 388px;
+  max-width: 388px;
   padding: 0;
   margin: 0;
   line-height: 25px;
@@ -95,7 +95,7 @@
 .two-columns__brief {
   padding: 0;
   margin: 0;
-  width: 175px;
+  max-width: 175px;
   color:#2f80ed;
   line-height: 1.2;
   font-size: 18px;
@@ -197,7 +197,7 @@
 }
 
 .feynman-title {
-  width: 648px;
+  max-width: 648px;
   padding: 0;
   margin: 100px 0 0;
   line-height: 1.15;
