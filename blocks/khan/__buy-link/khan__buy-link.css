@@ -8,7 +8,6 @@
   text-decoration: none;
   transition: opacity 0.4s linear;
   align-self: flex-start;
-  position: relative;
   z-index: 2;
 }
 
